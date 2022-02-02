@@ -1,6 +1,7 @@
 {
   "deck_of_cardsv1": {
     "Overview": "/",
-    "Card": "card.html"
+    "Card": "card.html",
+    "Deck": "deck.html"
   }
 }
