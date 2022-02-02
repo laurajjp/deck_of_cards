@@ -64,4 +64,3 @@ plugins:
     
 remote_theme: fastai/nbdev-jekyll-theme
 baseurl: /deck_of_cardsv1/
-permalink: pretty
