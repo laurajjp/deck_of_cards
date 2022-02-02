@@ -1,5 +1,5 @@
 {
-  "deck_of_cardsv1": {
+  "deck_of_cards": {
     "Overview": "/",
     "Card": "card.html",
     "Deck": "deck.html"
